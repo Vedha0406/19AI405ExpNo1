@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Shrenidhi</h3>
-<h3>Register Number:212223040196</h3>
+<h3>Name: VEDHASHREE.G</h3>
+<h3>Register Number:212223240171</h3>
 
 
 <h3>AIM:</h3>
@@ -241,7 +241,8 @@ if   __name__ == "__main__":
 ```
 
 <h1>Output:</h1>
-<img width="510" alt="image" src="https://github.com/user-attachments/assets/22214cfb-1308-469d-9320-904f31f269fc" />
+![Screenshot 2025-04-23 151518](https://github.com/user-attachments/assets/ae67b0eb-7915-4855-ba23-244d8e1b04cb)
+
 
 <h1>Result:</h1>
 Thus, an AI agent is developed.
