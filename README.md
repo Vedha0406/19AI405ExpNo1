@@ -239,6 +239,9 @@ if   __name__ == "__main__":
         time.sleep(3)
 
 ```
+
+![ai1](https://github.com/user-attachments/assets/8fb0e790-27ae-4e64-8118-de5780524639)
+
 <h1>Result:</h1>
 Thus, an AI agent is developed.
 
